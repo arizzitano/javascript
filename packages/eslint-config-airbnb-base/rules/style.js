@@ -82,7 +82,7 @@ module.exports = {
       outerIIFEBody: 1,
       // MemberExpression: null,
       // CallExpression: {
-        // parameters: null,
+      //   parameters: null,
       // },
       FunctionDeclaration: {
         parameters: 1,
